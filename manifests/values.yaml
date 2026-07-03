@@ -1,2 +1,2 @@
 image: abhilash1105/jokes:<+pipeline.sequenceId>
-replicas: 2
+replicas: 3
